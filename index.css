@@ -1,0 +1,18 @@
+:root {
+  --bg-color: white;
+}
+li {
+  list-style: circle;
+}
+.space {
+  background-color: aqua;
+}
+div {
+  height: 10rem;
+  width: 100%;
+  background-color: crimson;
+}
+
+body {
+  background-color: var(--bg-color);
+}
